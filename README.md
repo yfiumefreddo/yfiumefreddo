@@ -4,8 +4,8 @@
 
 ## About
 
-* Creator of [xtd](https://gammasoft71.github.io/xtd), a modern C++ framework inspired by .NET.
 * 25+ years of experience in software architecture, R&D, and cross-platform development.
+* Creator of [xtd](https://gammasoft71.github.io/xtd), a modern C++ framework inspired by .NET.
 * Strong expertise in modern C++, UI frameworks, and broadcast industry solutions.
 * Nickname : [Gammasoft71](https://gammasoft71.github.io)
 
