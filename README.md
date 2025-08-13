@@ -1,16 +1,31 @@
-## Hi there 👋
+# Yves Fiumefreddo
 
-<!--
-**yfiumefreddo/yfiumefreddo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Architect | C++ Open Source Developer | Creator of the xtd Framework | Passionate about new technologies and computer science.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Highlights
+
+- Creator of [xtd](https://gammasoft71.github.io/xtd), a modern C++ framework inspired by .NET.
+- 25+ years of experience in software architecture, R&D, and cross-platform development.
+- Strong expertise in modern C++, UI frameworks, and broadcast industry solutions.
+
+---
+
+## Nickname
+
+[Gammasoft71](https://gammasoft71.github.io)
+​
+## Mocation
+
+Liège, Belgium
+
+## Email
+
+[y.fiumefreddo@gmail.com](mailto:y.fiumefreddo@gmail.com])
+​
+## Date of Birth
+
+January 5, 1971
+
+[more info](https://yfiumefreddo.github.io)
